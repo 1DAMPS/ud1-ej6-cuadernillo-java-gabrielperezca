@@ -1,0 +1,5 @@
+"2edad" no es un nombre de variable válido ya que empieza por un número
+"_curso" sí es un nombre de variable válido ya que empieza por "_"
+"while" no es un nombre de variable válido ya que es una palabra reservada
+"Nombre" es un nombre de variable válido, aunque no se recomienda debido a que se puede confundir con el nombre de una clase
+"precioTotal" es un nombre de variable válido ya que la mayúscula distingue que son dos palabras y está permitido
